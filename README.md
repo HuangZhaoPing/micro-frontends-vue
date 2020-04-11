@@ -33,3 +33,7 @@
 * library 与 libraryTarget，将项目设置成模块
 * loadjs 或 systemjs 按需加载模块
 * externals 防止重复引入资源
+
+## 参考资料
+
+<https://juejin.im/post/5e5c9bff51882548fe291950>
