@@ -17,6 +17,8 @@
     cd module2
     npm install
     npm run dev
+    
+    open http://localhost:8000
 
 ## 原理 && 实现
 
