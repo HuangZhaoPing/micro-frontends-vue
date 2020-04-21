@@ -5,7 +5,6 @@ const name = require('../package.json').name
 module.exports = {
   entry: resolve('src/main.js'),
   output: {
-    filename: `${name}/[name].js`,
     path: resolve('dist'),
     library: name,
     libraryTarget: 'umd',
